@@ -222,7 +222,7 @@ body {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero-background.jpg);
+    url(../images/hero-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -480,8 +480,6 @@ body {
   margin-right: 120px;
 }
 
-.footer-social-container {
-}
 .social-text {
   font-weight: 500;
   font-size: 16px;
