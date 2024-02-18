@@ -142,11 +142,11 @@ body {
   color: #404bbf;
 }
 
-.menu-nav-item:first-child {
+.menu-nav-item:first-child .nav-button {
   position: relative;
 }
 
-.menu-nav-item:first-child::after {
+.menu-nav-item:first-child .nav-button::after {
   content: "";
   background-color: #404bbf;
   border-radius: 2px;
